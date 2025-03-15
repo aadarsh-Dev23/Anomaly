@@ -1,5 +1,7 @@
 # 📊 Real-time Anomaly Detection & Dashboard
 
+**Python** version - 3.8
+
 ## Overview
 This project is a **real-time anomaly detection and data visualization** tool using:
 - **Streamlit** for UI
